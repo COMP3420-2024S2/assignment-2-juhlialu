@@ -62,7 +62,9 @@ A *MobileNet* model pre-trained on *ImageNet* with frozen pre-trained layers and
 - **Seaborn**
 
 Install the dependencies with:
-```pip install tensorflow keras matplotlib numpy seaborn
+```bash
+pip install tensorflow keras matplotlib numpy seaborn
+```
 
 --- 
 
