@@ -48,7 +48,7 @@ A *MobileNet* model pre-trained on *ImageNet* with frozen pre-trained layers and
 ## Usage
 
 1. Clone the repository.
-2. Download the dataset from [Kaggle](https://www.kaggle.com/datasets/puneet6060/intel-image-classification) and place the unzipped foler into the local directory of the repository.
+2. Download the dataset from [Kaggle](https://www.kaggle.com/datasets/puneet6060/intel-image-classification) and place the unzipped folder into the local directory of the repository.
 3. Install dependencies.
 4. Run the Jupyter notebook.
    
